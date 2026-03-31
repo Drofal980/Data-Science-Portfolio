@@ -4,7 +4,9 @@ subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
+# About Me
 ## Title 2 Header
+
+Passionate about coding since high school, I’ve immersed myself in the world of programming, developing a solid foundation in Python, C++, Java, HTML, and a touch of JavaScript and CSS. I thrive on creating innovative applications and scripts that simplify everyday tasks, making life easier, faster, and more accessible. Driven by a curiosity to learn and a desire to create, I am eager to continue developing impactful software solutions and exploring new technologies. Whether it's developing user-friendly applications or teaching coding concepts, I am dedicated to making a difference in the tech world.
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
