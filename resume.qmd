@@ -1,89 +1,68 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brandon's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brandon Van Blarcum
+Software Engineering Major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:brandonjvanb@gmail.com">brandonjvanb@gmail.com</a>
+| <a href="https://www.linkedin.com/in/brandon-j-van-blarcum/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Junior at Brigham Young University - Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Programming Languages: Python, Java, C++, MySQL, HTML, CSS, JavaScript, Java, Kotlin
+
+- Platforms and Frameworks: Jupyter, MongoDB, Kubernetes, Flask, Docker
+
+- Experienced with managing projects with Git
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Software development
+
+- Full stack development
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`Jan 2021 – Dec 2027`
+__Brigham Young University - Idaho__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+Participant, *Lockheed Martin Deer Creek*, Littleton, CO
+Qualified and participated for Code Quest 2018 hosted by Lockheed Martin
 
-Associate, *French Academy of Science*, Paris, France
+`2013-2018`
+Participant, *Colorado TSA*, Denver, CO
+Competed in the Colorado State Technology Student Association (TSA) competition for five years
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018`
+Eagle Scout, *Boy Scouts of America*, Parker, CO
+Earned the Eagle Scout from the Boy Scouts of America
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Mar 2023 - Sept 2023, Apr 2024 - Aug 2024, Apr 2025 - Aug 2025`
+__ICR, Inc__, Aurora
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Software Engineer Intern
+- Learned and expanded upon an existing codebase to store open-source data from a series of websites. This data was then used for data analytics.
+- Created custom python scripts tuned for extracting open source data.
+- Rebuilt Grafana dashboards to display the data for administrative use.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2026 -->
